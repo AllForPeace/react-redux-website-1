@@ -1,2 +1,2 @@
-# react-redux-website-1
+# Movie Theater App
 A website implementing React and Redux.
